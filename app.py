@@ -7,7 +7,6 @@ import shap
 from sklearn.ensemble import RandomForestRegressor
 from streamlit_shap import st_shap
 
-
 # give description and title of the project
 st.write("""
 # Boston House Price Prediction
