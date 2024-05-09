@@ -3,4 +3,4 @@ matplotlib
 streamlit
 seaborn
 shap
-streamlit_shap
+numpy
